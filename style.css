@@ -1,3 +1,7 @@
 body{
     background-image: url(bg.jpg);
 }
+a{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
