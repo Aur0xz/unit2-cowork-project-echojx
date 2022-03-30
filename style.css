@@ -30,3 +30,15 @@ height: 200px;
 width: 75px;
 height: 55px;
 }
+
+.login{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-size: 30px;
+}
+.loginbutton{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
