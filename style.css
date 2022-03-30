@@ -6,9 +6,35 @@ a{
     color: black;
     font-size: 20px;
 }
+<<<<<<< HEAD
 .img2{
     
     width: 80px; 
     height: 100px; 
 
+=======
+h1{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-size: 30px;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-size: 15px;
+}
+.img1{
+width: 520px;
+height: 200px;
+}
+.logo{
+width: 75px;
+height: 55px;
+>>>>>>> be52dd286c90f51e57803f03f6df7ee86b544264
 }
